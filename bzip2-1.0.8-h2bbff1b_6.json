@@ -1,0 +1,45 @@
+{
+  "build": "h2bbff1b_6",
+  "build_number": 6,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\bzip2-1.0.8-h2bbff1b_6",
+  "files": [
+    "Library/bin/bzip2.dll",
+    "Library/bin/bzip2.exe",
+    "Library/bin/bzip2recover.exe",
+    "Library/bin/libbz2.dll",
+    "Library/include/bzlib.h",
+    "Library/lib/bzip2.lib",
+    "Library/lib/bzip2_static.lib",
+    "Library/lib/libbz2.def",
+    "Library/lib/libbz2.exp",
+    "Library/lib/libbz2.lib",
+    "Library/lib/libbz2_static.lib",
+    ".nonadmin"
+  ],
+  "fn": "bzip2-1.0.8-h2bbff1b_6.conda",
+  "license": "bzip2-1.0.8",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\bzip2-1.0.8-h2bbff1b_6",
+    "type": 1
+  },
+  "md5": "33e784123d565c38e68945f07b461282",
+  "name": "bzip2",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\bzip2-1.0.8-h2bbff1b_6.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::bzip2==1.0.8=h2bbff1b_6[md5=33e784123d565c38e68945f07b461282]",
+  "sha256": "4e30c9bfd4501555b0859c863e95ea044290babf3bf190b9d4fb38b06cf15c3c",
+  "size": 91870,
+  "subdir": "win-64",
+  "timestamp": 1714511182000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/bzip2-1.0.8-h2bbff1b_6.conda",
+  "version": "1.0.8"
+}
